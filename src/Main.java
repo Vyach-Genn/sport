@@ -51,6 +51,7 @@ public class Main {
                     + maxPayment + " рублей. Платеж по кредиту" +
                     +paymentPerMonth + "  рублей. Одобрено");
         }
+        System.out.println();
 
 
     }
